@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.main-container {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+}
+.second-container {
+  background-color: #3a4b63;
+  width: 60%;
+  padding-left: 20px;
+  padding-top: 18px;
+  padding-right: 12px;
+}
+.eventName {
+  color: white;
+  font-family: 'Roboto';
+}
+.unorder-list {
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.registration-detail {
+  width: 40%;
+}
+.click-event-name {
+  color: #64748b;
+  text-align: center;
+  font-family: 'Roboto';
+}

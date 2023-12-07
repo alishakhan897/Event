@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.listes {
+  list-style-type: none;
+}
+.image-design {
+  height: 230px;
+}
+.card {
+  margin-bottom: 20px;
+}
+.name {
+  color: white;
+  font-family: 'Roboto';
+}
+.location {
+  color: white;
+  font-family: 'Roboto';
+  padding-top: 0px;
+  margin-top: 0px;
+}
